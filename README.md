@@ -17,10 +17,16 @@ El desarrollo del Sistema de Legajo Virtual se basa en las siguientes tecnologí
 
 ## Arquitectura 🏗️
 
-El Sistema de Legajo Virtual sigue una arquitectura basada en los principios de Programación Orientada a Objetos (POO) y el patrón de diseño Modelo-Vista-Controlador (MVC). Esta arquitectura permite una organización clara y modular del código, promoviendo la reutilización y facilitando el mantenimiento del sistema.
+El Sistema de Legajo Virtual sigue una arquitectura basada en los principios de Programación Orientada a Objetos (POO) y el patrón de diseño Modelo-Vista-Controlador (MVC). Esta arquitectura permite una organización clara y modular del código, promoviendo la reutilización y facilitando el mantenimiento del sistema.  
 
 - **POO**: El código del sistema se organiza en clases y objetos que encapsulan la lógica y los datos relacionados, fomentando la modularidad y la estructura ordenada del software.
 - **MVC**: La arquitectura MVC divide el sistema en tres componentes principales:
   - **Modelo**: Gestiona los datos y la lógica de negocio del sistema.
   - **Vista**: Se encarga de la presentación de la información al usuario.
   - **Controlador**: Recibe las acciones del usuario, actualiza el modelo y actualiza la vista correspondiente.
+
+## Vista de proyecto 🖥️ 
+
+![Vista](Sistema-de-Legajo-Virtual/Vistas/img
+/login.png)
+
