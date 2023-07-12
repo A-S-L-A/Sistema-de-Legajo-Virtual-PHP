@@ -27,6 +27,5 @@ El Sistema de Legajo Virtual sigue una arquitectura basada en los principios de 
 
 ## Vista de proyecto 🖥️ 
 
-![Vista](Sistema-de-Legajo-Virtual/Vistas/img
-/login.png)
+![Vista](Vistas/img/login.png)
 
